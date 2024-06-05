@@ -2,3 +2,4 @@
     remote = mri-data
 ['remote "mri-data"']
     url = gs://brain-tumor-classification-dvc
+    credentialpath = /home/yashasvi/Downloads/tensile-topic-424308-d9-c0eab91692b3.json
